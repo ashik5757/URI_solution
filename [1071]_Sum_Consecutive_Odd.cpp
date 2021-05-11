@@ -9,7 +9,7 @@ int main() {
     cin >> x >> y;
 
     if (x>y) {
-
+ 
         temp=x;
         x=y;
         y=temp;

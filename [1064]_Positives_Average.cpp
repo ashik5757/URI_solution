@@ -8,7 +8,7 @@ int main() {
     double x;
     double sum = 0, avg; 
     int count = 0;
-    
+     
 
     for (int i=1;i<=6;i++) {
 

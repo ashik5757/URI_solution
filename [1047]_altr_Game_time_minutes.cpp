@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 
     int h1,m1,h2,m2;
-
+ 
     cin >> h1 >> m1 >> h2 >> m2;
 
     int h = h2-h1;

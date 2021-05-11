@@ -9,7 +9,7 @@ int main() {
     double p,q,r;
 
     cin >> p >> q >> r;
-
+ 
     if(p>q && p>r) {
 
         a = p;

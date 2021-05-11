@@ -8,7 +8,7 @@ int main() {
     int a,b,c,d,x,y;
 
     cin >> a >> c >> b >> d;
-
+ 
     if (a>b && c>d) {
 
         x = (24-a)+b-1;

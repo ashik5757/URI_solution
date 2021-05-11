@@ -10,7 +10,7 @@ int main() {
     int i=0;
     int j,temp;
 
-
+ 
     for(i=0;i<3;i++) {
 
         cin >> arr[i];

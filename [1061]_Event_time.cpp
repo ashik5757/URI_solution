@@ -8,7 +8,7 @@ int main() {
 
     int d1,d2;
     int h1,h2,m1,m2,s1,s2;
-
+ 
     cin >> trash >> d1;
     cin >> h1 >> trash >> m1 >> trash >> s1;
     cin >> trash >> d2;

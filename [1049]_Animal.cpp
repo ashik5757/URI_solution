@@ -6,7 +6,7 @@ int main() {
 
     string x("vertebrado");
     string y("invertebrado");
-
+ 
     string a("ave");
     string b("mamifero");
     string c("inseto");
